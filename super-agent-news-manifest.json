@@ -1,0 +1,40 @@
+{
+  "citations": [
+    "[emarketer.com](https://www.emarketer.com)",
+    "[biggofinance.com](https://biggofinance.com)",
+    "[techtimes.com](https://www.techtimes.com)",
+    "[cryptobriefing.com](https://cryptobriefing.com)",
+    "[alm.com](https://www.alm.com)",
+    "[forbes.com](https://www.forbes.com)",
+    "[engadget.com](https://www.engadget.com)",
+    "[tomsguide.com](https://www.tomsguide.com)",
+    "[bwdisrupt.businessworld.in](https://bwdisrupt.businessworld.in)",
+    "[memeburn.com](https://memeburn.com)",
+    "[geekwire.com](https://www.geekwire.com)",
+    "[stablenumbers.com](https://stablenumbers.com/devtools/stylesheet-generator.php)",
+    "[free.ai](https://free.ai/code/css/)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=3; aida=pass; density_rule=grid-auto-flow:dense; label_sweep=all_competitors_present; button_contrast=pass",
+  "generated_at": "2026-06-29T20:42:58.054680+00:00",
+  "headline": "Personal AI Agent Market Brief",
+  "site_brief": {
+    "audience": "buyers and builders tracking personal AI agents",
+    "goal": "Create a frequently refreshed editorial blog homepage with a lead analysis, short posts, source cards, and a clear Super perspective on why computer-use caching makes repeated agent work cheaper and better.",
+    "kind": "blog",
+    "queries": [
+      "personal AI agents",
+      "AI assistants",
+      "computer use AI agent",
+      "browser automation agent",
+      "ChatGPT agent",
+      "Gemini AI assistant",
+      "Grok AI assistant",
+      "Siri AI assistant",
+      "Folk CRM AI",
+      "Orchids AI agent"
+    ],
+    "slug": "personal-ai-agent-news",
+    "title": "Personal AI Agent Market Brief"
+  },
+  "summary": "A daily editorial briefing for buyers and builders tracking personal AI agents, with clear sourcing and a Super-first perspective on why computer-use agents with caching will win repeated workflows."
+}
